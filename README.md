@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername" target="_blank">Safal Sharma</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/SAFALKSHARMA" target="_blank">Safal Sharma</a> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open-Source+Enthusiast;Lifelong+Learner" />
@@ -15,15 +15,15 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAFALKSHARMA&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAFALKSHARMA&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAFALKSHARMA&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ### 🎯 Profile Views:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=SAFALKSHARMA&label=Profile%20Views&color=blue&style=plastic" />
 </p>
 
 ---
